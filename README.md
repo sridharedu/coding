@@ -29,4 +29,3 @@ Please keep the explanation beginner-friendly but also useful to intermediate le
 Here's the problem:
 
 Problem 1. How do you get the sum of all elements in an integer array in Java?
-Problem 2. How do you find the second largest number in an array in Java?
